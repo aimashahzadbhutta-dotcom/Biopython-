@@ -1,0 +1,70 @@
+LOCUS       JF909299                 285 bp    mRNA    linear   PRI 25-JUL-2016
+DEFINITION  Homo sapiens insulin (INS) mRNA, partial cds.
+ACCESSION   JF909299
+VERSION     JF909299.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 285)
+  AUTHORS   Piri,H., Kazemi,B., Bandehpour,M., Rezaei,M., Goodarzi,M.T.,
+            Khodadadi,I., Hasanzadeh,T., Sirati Sabet,M., Tasa,D.,
+            Heidari,H.R., Karimi,J., Yari Khosroshahi,A., Eghdami,A. and
+            Tavakkoli,A.H.
+  TITLE     Preparation of human insulin gene construct in order to use in
+            diabetes mellitus gene therapy
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 285)
+  AUTHORS   Piri,H., Kazemi,B., Bandehpour,M., Rezaei,M., Goodarzi,M.T.,
+            Khodadadi,I., Hasanzadeh,T., Sirati Sabet,M., Tasa,D.,
+            Heidari,H.R., Karimi,J., Yari Khosroshahi,A., Eghdami,A. and
+            Tavakkoli,A.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2011) Biochemistry, Qazvin University of Medical
+            Science, Bahonar Blvd., Qazvin 3419759811, Iran
+FEATURES             Location/Qualifiers
+     source          1..285
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="pBindIns"
+                     /sex="male"
+                     /tissue_type="pancreas"
+                     /geo_loc_name="Iran"
+                     /PCR_primers="fwd_name: INS-fwd, fwd_seq:
+                     cttggaagcttatggccctgtggatgcgc, rev_name: INS-rev, rev_seq:
+                     gcttactcgagctagttgcagtagttctccag"
+     gene            <1..>285
+                     /gene="INS"
+     CDS             <1..>285
+                     /gene="INS"
+                     /note="decreases blood glucose concentration and increases
+                     cell permeability to monosaccharides, amino acids and
+                     fatty acids; accelerates glycolysis, pentose phosphate
+                     cycle, and glycogen synthesis in liver"
+                     /codon_start=2
+                     /product="insulin"
+                     /protein_id="AEG19452.1"
+                     /translation="WGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAED
+                     LQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN"
+     sig_peptide     <1..25
+                     /gene="INS"
+     misc_feature    26..115
+                     /gene="INS"
+                     /note="insulin B chain"
+     misc_feature    124..216
+                     /gene="INS"
+                     /note="C-peptide"
+     misc_feature    223..>285
+                     /gene="INS"
+                     /note="insulin A chain"
+ORIGIN      
+        1 ctggggacct gacccagccg cagcctttgt gaaccaacac ctgtgcggct cacacctggt
+       61 ggaagctctc tacctagtgt gcggggaacg aggcttcttc tacacaccca agacccgccg
+      121 ggaggcagag gacctgcagg tggggcaggt ggagctgggc gggggccctg gtgcaggcag
+      181 cctgcagccc ttggccctgg aggggtccct gcagaagcgt ggcattgtgg aacaatgctg
+      241 taccagcatc tgctccctct accagctgga gaactactgc aacta
+//
+
